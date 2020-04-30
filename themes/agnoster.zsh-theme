@@ -250,7 +250,7 @@ build_prompt() {
   prompt_aws
   prompt_context
   prompt_dir
-  prompt_git
+  #prompt_git
   prompt_bzr
   prompt_hg
   prompt_end
